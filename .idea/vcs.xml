@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/github.com/chromedp/cdproto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/chromedp/chromedp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/disintegration/imaging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/gorilla/websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/knq/sysutil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github.com/mailru/easyjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang.org/x/image" vcs="Git" />
+  </component>
+</project>
